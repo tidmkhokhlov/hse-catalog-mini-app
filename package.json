@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<твой-username>.github.io/hse-nn-miniapp",
+  "homepage": "https://tidmkhokhlov.github.io/hse-catalog-mini-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
